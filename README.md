@@ -1,1 +1,1 @@
-# wafer_defect_classification
+# Classification of Semiconductor wafer defect
